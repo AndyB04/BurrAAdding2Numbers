@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/GitRepository/Mini2redo/bin/Debug/net6.0/Mini2redo
+/Users/brandonle/Desktop/GitRepository/Mini2redo/bin/Debug/net6.0/Mini2redo.deps.json
+/Users/brandonle/Desktop/GitRepository/Mini2redo/bin/Debug/net6.0/Mini2redo.runtimeconfig.json
+/Users/brandonle/Desktop/GitRepository/Mini2redo/bin/Debug/net6.0/Mini2redo.dll
+/Users/brandonle/Desktop/GitRepository/Mini2redo/bin/Debug/net6.0/Mini2redo.pdb
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.AssemblyInfo.cs
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.dll
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/refint/Mini2redo.dll
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.pdb
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/Mini2redo.genruntimeconfig.cache
+/Users/brandonle/Desktop/GitRepository/Mini2redo/obj/Debug/net6.0/ref/Mini2redo.dll
